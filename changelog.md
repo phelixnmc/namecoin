@@ -1,3 +1,8 @@
+* Several optimizations to improve handling of large/many network transactions (Domob)
+* More restrictive filtering of transactions (RyanC/phelix)
+* Update to OpenSSL1.0.1i (phelix)
+* Better drive performance on disk based systems through less fragmentation (Domob)
+* "Renew" GUI Button (Domob)
 * contrib/easywinbuilder: Qt5/MinGW4.8.2/cleanup (phelix)
 * Qt5 compatibility (Canercandan/phelix)
 * New command line / .conf file option: -walletpath=customwalletfilename.dat (digital-dreamer)
